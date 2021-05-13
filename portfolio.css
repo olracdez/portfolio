@@ -5,9 +5,11 @@ body {
   font-weight: 400;
 }
 
+/*
+HIDE SCROLL BAR 
 ::-webkit-scrollbar{
   display: none;
-}
+} */
 
 * {
   margin: 0;
